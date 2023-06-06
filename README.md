@@ -22,7 +22,7 @@ Our major findings were as follows:
 
 •	Higher voter turnout tends to favour Democrats and was a critical factor in the 2020 election.
 
-•	There was not as strong acorrelation between Median age and voting for a certain party, as we perhaps initally expected. 
+•	There was not as strong a correlation between Median age and voting for a certain party, as we perhaps initally expected. 
 
 •	Democratic states experienced considerably larger increases in income than Republican states between 2016 and 2020. This may have played a role in convincing swing state voters to vote blue. 
 
