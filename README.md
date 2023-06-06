@@ -17,9 +17,13 @@ We also created a Geopandas visualisation for both election results to highlight
 3. Data Modelling 
 
 For the modelling aspect of our project, we focused on the correlation between certain factors and the way people voted. We compiled a database of statistics manually, using statistics from reputable sources such as Census data and government websites. 
+
 Our major findings were as follows: 
-•	Higher voter turnout tends to favour Democrats and was a critical factor in the 2020 election. 
+
+•	Higher voter turnout tends to favour Democrats and was a critical factor in the 2020 election.
+
 •	States with older populations tend to lean towards Republicans. 
+
 •	Democratic states experienced considerably larger increases in income than Republican states between 2016 and 2020. This may have played a role in convincing swing state voters to vote blue. 
 
 4.Taking our Project one step further
